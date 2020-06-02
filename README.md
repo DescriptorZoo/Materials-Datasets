@@ -1,4 +1,4 @@
-DOI:[![DOI](https://zenodo.org/badge/268489142.svg)](https://zenodo.org/badge/latestdoi/268489142)
+[![DOI](https://zenodo.org/badge/268489142.svg)](https://zenodo.org/badge/latestdoi/268489142)
 
 # Materials-Datasets
 Curated ExtXYZ Formatted NOMAD Archive Datasets
